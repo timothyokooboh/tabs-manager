@@ -1,0 +1,34 @@
+
+.container {
+    padding: 10px 14px;
+    border-radius: 4px;
+}
+
+.tabs {
+    width: 400px;
+    max-height: 350px;
+    overflow-y: auto;
+    margin-block-end: 10px;
+}
+
+.tab {
+    display: block;
+    margin-bottom: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    padding-block-end: 6px;
+    border-bottom: 1px solid #dfdfdf;
+    text-align: left;
+    width: 100%
+}
+
+.group-tabs-btn {
+    width: 100%;
+    background-color: dodgerblue;
+    color: #FFF;
+    border: none;
+    padding: 10px 16px;
+    cursor: pointer;
+    border-radius: 3px;
+}
